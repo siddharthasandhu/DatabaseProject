@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry exported="true" kind="var" path="GWT_HOME/gwt-user.jar"/>
+	<classpathentry exported="true" kind="lib" path="miglayout15-swing.jar" sourcepath="miglayout-src.zip"/>
+	<classpathentry exported="true" kind="lib" path="forms-1.3.0.jar" sourcepath="forms-1.3.0-src.zip"/>
+	<classpathentry exported="true" kind="lib" path="C:/app/client/siddharthasingh/product/12.1.0/client_1/sqldeveloper/jdbc/lib/ojdbc6.jar" sourcepath="C:/University Material/DBMS/HW2/data/oracle_JDBC_driver/classes111.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/app/client/siddharthasingh/product/12.1.0/client_1/sqldeveloper/jdbc/lib/ojdbc6dms.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/app/client/siddharthasingh/product/12.1.0/client_1/sqldeveloper/sqldeveloper/lib/ActiveQueryBuilder.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/app/client/siddharthasingh/product/12.1.0/client_1/sqldeveloper/sqldeveloper/lib/antlr-all-2.7.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/app/client/siddharthasingh/product/12.1.0/client_1/sqldeveloper/sqldeveloper/lib/antlr-runtime-3.1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/app/client/siddharthasingh/product/12.1.0/client_1/sqldeveloper/sqldeveloper/lib/bcmail-jdk16-145.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/app/client/siddharthasingh/product/12.1.0/client_1/sqldeveloper/sqldeveloper/lib/bcprov-jdk16-145.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/app/client/siddharthasingh/product/12.1.0/client_1/sqldeveloper/sqldeveloper/lib/bctsp-jdk16-145.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/app/client/siddharthasingh/product/12.1.0/client_1/sqldeveloper/sqldeveloper/lib/common.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/app/client/siddharthasingh/product/12.1.0/client_1/sqldeveloper/sqldeveloper/lib/commons-codec-1.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/app/client/siddharthasingh/product/12.1.0/client_1/sqldeveloper/sqldeveloper/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/app/client/siddharthasingh/product/12.1.0/client_1/sqldeveloper/sqldeveloper/lib/dom4j-1.6.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/app/client/siddharthasingh/product/12.1.0/client_1/sqldeveloper/sqldeveloper/lib/emapi.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/app/client/siddharthasingh/product/12.1.0/client_1/sqldeveloper/sqldeveloper/lib/geronimo-stax-api_1.0_spec-1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/app/client/siddharthasingh/product/12.1.0/client_1/sqldeveloper/sqldeveloper/lib/httpclient-4.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/app/client/siddharthasingh/product/12.1.0/client_1/sqldeveloper/sqldeveloper/lib/httpclient-cache-4.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/app/client/siddharthasingh/product/12.1.0/client_1/sqldeveloper/sqldeveloper/lib/httpcore-4.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/app/client/siddharthasingh/product/12.1.0/client_1/sqldeveloper/sqldeveloper/lib/httpmime-4.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/app/client/siddharthasingh/product/12.1.0/client_1/sqldeveloper/sqldeveloper/lib/itextpdf-5.1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/app/client/siddharthasingh/product/12.1.0/client_1/sqldeveloper/sqldeveloper/lib/jgraphx.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/app/client/siddharthasingh/product/12.1.0/client_1/sqldeveloper/sqldeveloper/lib/jle2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/app/client/siddharthasingh/product/12.1.0/client_1/sqldeveloper/sqldeveloper/lib/jline-0.9.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/app/client/siddharthasingh/product/12.1.0/client_1/sqldeveloper/sqldeveloper/lib/jsch.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/app/client/siddharthasingh/product/12.1.0/client_1/sqldeveloper/sqldeveloper/lib/log4j-1.2.13.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/app/client/siddharthasingh/product/12.1.0/client_1/sqldeveloper/sqldeveloper/lib/oracle.sqldeveloper.utils.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/app/client/siddharthasingh/product/12.1.0/client_1/sqldeveloper/sqldeveloper/lib/oracle.sqldeveloper.utils-nodeps.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/app/client/siddharthasingh/product/12.1.0/client_1/sqldeveloper/sqldeveloper/lib/poi-3.7-20101029.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/app/client/siddharthasingh/product/12.1.0/client_1/sqldeveloper/sqldeveloper/lib/poi-ooxml-3.7-20101029.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/app/client/siddharthasingh/product/12.1.0/client_1/sqldeveloper/sqldeveloper/lib/poi-ooxml-schemas-3.7-20101029.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/app/client/siddharthasingh/product/12.1.0/client_1/sqldeveloper/sqldeveloper/lib/PropertyStorage.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/app/client/siddharthasingh/product/12.1.0/client_1/sqldeveloper/sqldeveloper/lib/resource-templates.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/app/client/siddharthasingh/product/12.1.0/client_1/sqldeveloper/sqldeveloper/lib/sdoapi.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/app/client/siddharthasingh/product/12.1.0/client_1/sqldeveloper/sqldeveloper/lib/sdovis.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/app/client/siddharthasingh/product/12.1.0/client_1/sqldeveloper/sqldeveloper/lib/SQLinForm.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/app/client/siddharthasingh/product/12.1.0/client_1/sqldeveloper/sqldeveloper/lib/stringtemplate-3.1b1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/app/client/siddharthasingh/product/12.1.0/client_1/sqldeveloper/sqldeveloper/lib/xmlbeans-2.3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/University Material/DBMS/HW2/data/Oracle Spatial API/sdoapi" sourcepath="C:/app/siddharthasingh/product/12.1.0/dbhome_1/sqldeveloper/sqldeveloper/lib/sdoapi.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/siddharthasingh/Desktop/scout-1.2.3_1.jar"/>
+	<classpathentry kind="output" path="war/WEB-INF/classes"/>
+</classpath>
